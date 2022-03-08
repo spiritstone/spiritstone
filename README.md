@@ -37,10 +37,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
  </br>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshjessica&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshjessica&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 </div>
 
 <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
 <!--https://github.com/Ileriayo/markdown-badges-->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spiritstone&show_icons=true&theme=tokyonight&show_icons=true)
+<div align="center>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spiritstone&show_icons=true&theme=tokyonight&show_icons=true)
