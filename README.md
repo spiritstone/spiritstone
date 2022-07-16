@@ -20,7 +20,7 @@ I'm currently highly interested in Blockchain & Security
 -->
 <!-- Stats -->
 <div align="center">
-  <h3>I am currently trying...🔥</h3>
+  <h3>I have done/am currently trying...🔥</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></br>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
