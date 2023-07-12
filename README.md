@@ -21,7 +21,7 @@ I'm currently highly interested in Blockchain & Security
 
 
 <!-- Stats -->
-
+<!--
 <div align="left">
   <h3>I have done/am currently trying...🔥</h3>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
@@ -39,12 +39,12 @@ I'm currently highly interested in Blockchain & Security
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+-->
 
-
-
+<!--
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiritstone&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spiritstone&show_icons=true&theme=tokyonight&show_icons=true)
-
+-->
 </div>
 
 <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
