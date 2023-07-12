@@ -41,10 +41,10 @@ I'm currently highly interested in Blockchain & Security
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 
 
-<!--
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiritstone&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spiritstone&show_icons=true&theme=tokyonight&show_icons=true)
--->
+
 </div>
 
 <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
