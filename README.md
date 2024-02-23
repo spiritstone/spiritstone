@@ -14,16 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently highly interested in Blockchain & Security
-- President of [E-COPS](https://github.com/E-COPS)
-- External Relations Manager at EWHA-CHAIN
-- [Looklock](https://github.com/Ewhachain-LookLock/looklock-front): DeFi Project (Lead, Frontend Developer)
+<h1>Hi, my name is Minji Koh</h1> 
+Major: Cyber Security, Entreprenership, IT Business Management
 
+- Ewha Womans Univ. Blockchain Club EWHA-CHAIN (External Relations Manager, 22.02 ~ 23.02)
+- DeFi Project [Looklock](https://github.com/Ewhachain-LookLock/looklock-front) (Lead & Frontend Developer, 22.04 ~ 08) : Pool Prize Winner of Polygon BUIDL IT: Summer 2022
+- Project Furever Found (Frontend Developer, 22.07 ~ 09): Winner of Web3athon 2022 Prasaga Track
+- Member of Waterloo Blockchain (24.01 ~ )
+- Ewha Womans Univ. Cybersecurity Club [E-COPS](https://github.com/E-COPS) (President, 22.03 ~ 23.06)
 
+More info on [LinkedIn](www.linkedin.com/in/minji-koh)
 <!-- Stats -->
 <!--
 <div align="left">
-  <h3>I have done/am currently trying...🔥</h3>
+  <h3>My past/current experience includes...🔥</h3>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></br>
