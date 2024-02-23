@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, My name is Minji Koh
 
 <!--
 **spiritstone/spiritstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi, my name is Minji Koh</h1> 
 Major: Cyber Security, Entreprenership, IT Business Management
 
 - Ewha Womans Univ. Blockchain Club EWHA-CHAIN (External Relations Manager, 22.02 ~ 23.02)
